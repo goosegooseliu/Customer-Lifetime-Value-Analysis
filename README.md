@@ -1,3 +1,3 @@
 # Customer-Lifetime-Value-Analysis
 
-Build Machine Learning model to predict custmer lifetime value
+Build Machine Learning model to predict customer lifetime value
